@@ -1,5 +1,5 @@
 
-Hi there 👋, I'm Aditi Kute
+<h1 align="center">Hi there 👋, I'm Aditi Kute</h1>
 <h3 align="center">A Girl trying to Figure-Out Errors!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditikute24&label=Profile%20views&color=129e00&style=plastic" alt="aditikute24" /> </p>
