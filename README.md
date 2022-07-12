@@ -1,4 +1,4 @@
-(https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1649894400&v=beta&t=9ftvnINumN5h6vFaR-FyTOl-2Ov9sR28qcB_c-SqH5k)](https://aditikute24.github.io)
+
 <h1 align="center">Hi 👋, I'm Aditi Kute</h1>
 <h3 align="center">A Girl trying to Figure-Out Errors!!</h3>
 
