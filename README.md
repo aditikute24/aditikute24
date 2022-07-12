@@ -1,12 +1,13 @@
 
-<h1 align="center">Hi 👋, I'm Aditi Kute</h1>
+Hi there 👋, I'm Aditi Kute
 <h3 align="center">A Girl trying to Figure-Out Errors!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditikute24&label=Profile%20views&color=129e00&style=plastic" alt="aditikute24" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-                 🙋‍♂️ About Me
+                 
+ 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Advance java and Full Stack development.**
+- 🌱 I’m currently learning **Advance java and Full Stack Web development.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
