@@ -21,7 +21,7 @@
 <a href="https://twitter.com/aditi_kute" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </p>
 
-## 💻 Skills : I have no deep knowledge about some languages.
+## 💻 Skills  (I dont't have deep knowledge about some languages.I know basic about some knowledge)
 ## 🕸️ **WEB DEV**
 <p>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
