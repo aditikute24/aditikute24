@@ -75,7 +75,8 @@
 <img src="https://img.shields.io/badge/VS%20Code%20Insider-24bfa5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white ""  style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"  style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"  style="margin-bottom: 4px;" height="30px">
-</p>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"  style="margin-bottom: 4px;" height="30px">
+</p
 
 ## 🌐 **BROWSERS**
 <p>
