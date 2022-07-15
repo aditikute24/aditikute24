@@ -1,5 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Aditi Kute</h1>
-<h3 align="center">A Girl trying to Figure-Out Errors!!⚠️</h3>
+<h1 align="center"> Hie there, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Aditi Kute</h1>
+<h3 align="center">A Girl trying to Figure-Out Errors!!⚠️😉</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditikute24&label=Profile%20views&color=129e00&style=plastic" alt="aditikute24" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
@@ -90,6 +93,10 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"  style="margin-bottom: 4px;" height="30px">
 </p>
 
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditikute24&show_icons=true&locale=en&layout=compact" alt="aditikute24" /></p>
+
 ### **Thanks for checking out my GitHub Profile!** 🙏
 
 <p>
@@ -103,3 +110,8 @@
 </p>
 
                                                                                                                                 
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!😂
+
+</div>
