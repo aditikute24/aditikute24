@@ -18,10 +18,9 @@
 
 <h3 align="left">#🌏 **CONNECT WITH ME**</h3>
 <p align="left">
- <a href="https://instagram.com/__adii__01__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:aditikute24@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/aditi-kute-104219193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://twitter.com/aditi_kute" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+
 </p>
 
 ## 💻 Skills  
@@ -31,11 +30,6 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  style="margin-bottom: 4px;" height="30px">
-</p>
-
-## 📱 **MOBILE DEV**
-<p>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"   style="margin-bottom: 4px;" height="30px">
 </p>
 
 
@@ -64,7 +58,6 @@
 ## 🛠️ **DEVOPS TOOLS**
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
 ## ☁️ **CLOUDS**
@@ -90,7 +83,6 @@
 ## ⭕ **OPERATING SYSTEMS**
 <p>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"  style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"  style="margin-bottom: 4px;" height="30px">
 </p>
 
 
