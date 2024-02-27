@@ -77,10 +77,11 @@
         
 </p>
 
-##🔗**Blockchain**
+
+## 🔗 **BLOCKCHAIN**
 <p>
-  <img src="[![Solidity](https://img.shields.io/badge/Solidity-Blockchain%20Development-blue?style=flat&logo=solidity)](https://soliditylang.org/)
-"  style="margin-bottom: 4px;" height="30px">       
+  <img src="https://img.shields.io/badge/Solidity-Blockchain%20Development-blue?style=flat&logo=solidity" style="margin-bottom: 4px;" height="30px">
+         
 </p>
 
 ## 🌐 **BROWSERS**
@@ -89,7 +90,8 @@
 <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"  style="margin-bottom: 4px;" height="30px">
 </p>
 
-##⏱️ **Workflow Platforms**
+## ⏱️ **WORKFLOW PLATFORMS**
+
 <p>
          <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"style="margin-bottom: 4px;" height="30px">
 </p>
