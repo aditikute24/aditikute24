@@ -3,7 +3,6 @@
          height="45"
          width="45" /> I'm Aditi Kute</h1>
 <h3 align="center">A Girl trying to Figure-Out Errors!!⚠️😉</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditikute24&label=Profile%20views&color=129e00&style=plastic" alt="aditikute24" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
                  
@@ -67,12 +66,22 @@
 
 ## 📄 **CODE EDITOR & IDES**
 <p>
-<img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/VS%20Code%20Insider-24bfa5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white ""  style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"  style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"  style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"  style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"  style="margin-bottom: 4px;" height="30px">
-</p
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"  style="margin-bottom: 4px;" height="30px">
+<img src=" https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"  style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"  style="margin-bottom: 4px;" height="30px">
+        
+</p>
+
+##🔗**Blockchain**
+<p>
+  <img src="[![Solidity](https://img.shields.io/badge/Solidity-Blockchain%20Development-blue?style=flat&logo=solidity)](https://soliditylang.org/)
+"  style="margin-bottom: 4px;" height="30px">       
+</p>
 
 ## 🌐 **BROWSERS**
 <p>
@@ -80,9 +89,15 @@
 <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"  style="margin-bottom: 4px;" height="30px">
 </p>
 
+##⏱️ **Workflow Platforms**
+<p>
+         <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"style="margin-bottom: 4px;" height="30px">
+</p>
+
 ## ⭕ **OPERATING SYSTEMS**
 <p>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"  style="margin-bottom: 4px;" height="30px">
+<img src ="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"  style="margin-bottom: 4px;" height="30px">
 </p>
 
 
