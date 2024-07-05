@@ -9,7 +9,8 @@
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
 
 
-<picture> <img align="right" src=" ![ak](https://github.com/aditikute24/aditikute24/assets/108111520/dae436e2-fd3d-4b0d-ac91-112e2d79613e" width = 400px></picture>
+<picture> <img align="right" ![ak](https://github.com/aditikute24/aditikute24/assets/108111520/97a1807a-da8a-47b4-8c9a-ab2200806cd6) width = 400px></picture>
+
 
  <p align="left">
 
