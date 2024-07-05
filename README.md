@@ -42,7 +42,7 @@
 # Skills <img src='https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif' width="40"> 
 
 
-| Category        | Skills        |
+| **Category**        | **Skills**        |
 |-----------------|---------------|
 |🕸️ **WEB DEV**|<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  style="margin-bottom: 4px;" height="30px">|
 |⚙️ **BACKEND DEV**|<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"  style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px"> 
@@ -75,12 +75,10 @@
 ### **Thanks for checking out my GitHub Profile!** 🙏
 
 <p>
-
-![](https://ForTheBadge.com/images/badges/built-with-love.svg)
-
-<!-- ![](https://img.shields.io/github/followers/hicodersofficial?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917) -->
-
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hicodersofficial&theme=onedark) -->
+<img align="center" src="https://ForTheBadge.com/images/badges/built-with-love.svg" alt="aditikute24" /></p>
+<p>
+<img align="center" src="https://img.shields.io/github/followers/hicodersofficial?logo=github&style=for-the-badge&color=0891b2&labelColor=1c19174" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicodersofficial&theme=onedark" /></p>
 
 </p>
 
