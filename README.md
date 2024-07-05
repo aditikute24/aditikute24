@@ -8,11 +8,9 @@
 
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
 
-<picture> <img align="right" src = "https://github.com/aditikute24/aditikute24/assets/108111520/97a1807a-da8a-47b4-8c9a-ab2200806cd6" width = 350px height="300"></picture>
-
+<picture> <img align="right" src = "https://github.com/aditikute24/aditikute24/assets/108111520/97a1807a-da8a-47b4-8c9a-ab2200806cd6" width = 370px height="300"></picture>
 
  <p align="left">
-
           
 - 🤩 **I always try to explore and learn something new.**
           
@@ -27,10 +25,8 @@
 </p>
 
 
-<br>
-</br>
 
-
+<p>
 <h2 align="center"> ⚡️ Technology Stacks </h2>
 
 ## 🕸️ **WEB DEV**
@@ -111,7 +107,7 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"  style="margin-bottom: 4px;" height="30px">
 <img src ="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"  style="margin-bottom: 4px;" height="30px">
 </p>
-
+</p>
 
 ## <h2 align="center"> 🤝🏻 **Connect with me** </h2>
 <p align="left">
