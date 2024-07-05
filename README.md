@@ -4,7 +4,6 @@
          width="45" /> I'm Aditi Kute</h1>
 <h3 align="center">A Girl trying to Figure-Out Errors!!⚠️😉</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditikute24&label=Profile%20views&color=129e00&style=plastic" alt="aditikute24" /> </p>
-<img align="right" alt="Coding" width="400" src="![ak](https://github.com/aditikute24/aditikute24/assets/108111520/af019392-7cce-4ed3-9efa-15a2e1e3bd84">
 
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
 
