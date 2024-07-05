@@ -11,6 +11,7 @@
 <picture> <img align="right" src = "https://github.com/aditikute24/aditikute24/assets/108111520/97a1807a-da8a-47b4-8c9a-ab2200806cd6" width = 370px height="300"></picture>
 
  <p align="left">
+ 
           
 - 🤩 **I always try to explore and learn something new.**
           
@@ -24,9 +25,13 @@
   
 </p>
 
+<br>
 
 
-<p>
+
+</br>
+
+
 <h2 align="center"> ⚡️ Technology Stacks </h2>
 
 ## 🕸️ **WEB DEV**
