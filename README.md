@@ -70,7 +70,7 @@
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditikute24&show_icons=true&locale=en&layout=compact" alt="aditikute24" /></p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img align="center" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### **Thanks for checking out my GitHub Profile!** 🙏
 
@@ -83,9 +83,6 @@
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hicodersofficial&theme=onedark) -->
 
 </p>
-
-<img align= center src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 
 <img align= center src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
                                                                                                                                 
