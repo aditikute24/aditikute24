@@ -77,8 +77,9 @@
 <p>
 <img align="center" src="https://ForTheBadge.com/images/badges/built-with-love.svg" alt="aditikute24" /></p>
 
-<img align="center" src="https://img.shields.io/github/followers/hicodersofficial?logo=github&style=for-the-badge&color=0891b2&labelColor=1c19174" /></p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicodersofficial&theme=onedark" /></p>
+<!-- ![](https://img.shields.io/github/followers/hicodersofficial?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917) -->
+
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hicodersofficial&theme=onedark) -->
 
 </p>
 
