@@ -19,6 +19,7 @@
 
 <h2 align="center"> ⚡️ Technology Stacks </h2>
 ## 💻 Skills  
+<br>
 ## 🕸️ **WEB DEV**
 <p>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -98,16 +99,15 @@
 <img src ="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"  style="margin-bottom: 4px;" height="30px">
 </p>
 
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditikute24&show_icons=true&locale=en&layout=compact" alt="aditikute24" /></p>
-
-<h2 align="center"> 🤝🏻 Connect with me </h2>
+<h2 align="center"> 🤝🏻 **Connect with me** </h2>
 <p align="left">
 <a href = "mailto:aditikute24@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/aditi-kute-104219193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditikute24&show_icons=true&locale=en&layout=compact" alt="aditikute24" /></p>
 
 ### **Thanks for checking out my GitHub Profile!** 🙏
 
