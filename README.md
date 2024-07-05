@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditikute24&label=Profile%20views&color=129e00&style=plastic" alt="aditikute24" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-## <picture><img src = "C:\Users\Lenovo\Downloads\ak.jpeg" width =40px></picture> **About me**
+<h2 align=""> ✨ About me </h2>
 
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
