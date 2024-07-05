@@ -10,21 +10,14 @@
 
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
-
+- 🤩 **I always try to explore and learn something new.**
 - 🌱 I’m currently learning **Advance java and Full Stack Web development.**
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
+- 🎉 Let's connect [here]**(https://www.linkedin.com/in/aditi-kute-104219193/))**
 - 📫 How to reach me **aditikute24@gmail.com**
 </p>
 
-<h3 align="left">#🌏 **CONNECT WITH ME**</h3>
-<p align="left">
-<a href = "mailto:aditikute24@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/aditi-kute-104219193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-</p>
-
+<h2 align="center"> ⚡️ Technology Stacks </h2>
 ## 💻 Skills  
 ## 🕸️ **WEB DEV**
 <p>
@@ -108,6 +101,13 @@
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditikute24&show_icons=true&locale=en&layout=compact" alt="aditikute24" /></p>
+
+<h2 align="center"> 🤝🏻 Connect with me </h2>
+<p align="left">
+<a href = "mailto:aditikute24@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/aditi-kute-104219193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</p>
 
 ### **Thanks for checking out my GitHub Profile!** 🙏
 
