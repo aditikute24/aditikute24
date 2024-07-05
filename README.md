@@ -4,11 +4,15 @@
          width="45" /> I'm Aditi Kute</h1>
 <h3 align="center">A Girl trying to Figure-Out Errors!!⚠️😉</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditikute24&label=Profile%20views&color=129e00&style=plastic" alt="aditikute24" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
 
-<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
+
+<picture> <img align="right" src=" ![ak](https://github.com/aditikute24/aditikute24/assets/108111520/dae436e2-fd3d-4b0d-ac91-112e2d79613e" width = 400px></picture>
+
  <p align="left">
+
           
 - 🤩 **I always try to explore and learn something new.**
           
