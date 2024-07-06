@@ -4,15 +4,13 @@
          width="45" /> I'm Aditi Kute</h1>
          <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h3 align="center">A Girl trying to Figure-Out Errors!!⚠️😉</h3>
+<h3 align="center">A Girl trying to Figure-Out Errors!!⚠️</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditikute24&label=Profile%20views&color=129e00&style=plastic" alt="aditikute24" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
-
 <picture> <img align="right" src = "https://github.com/aditikute24/aditikute24/assets/108111520/5495dde4-1510-463d-bbcd-8db499fa93b4" width = 390px height="410"></picture>
  <p align="left">
-
+          
 **Hello! I'm Aditi Radhakisan Kute, a passionate web developer with a Master's degree in Information Technology. I specialize in creating responsive, user-friendly websites and web applications. With a solid foundation in both front-end and back-end technologies, I'm excited to share my projects and collaborate with the developer community**
           
 - 🤩 **I always try to explore and learn something new.**
@@ -27,9 +25,6 @@
 </p>
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 # Skills <img src='https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif' width="40"> 
 
@@ -46,8 +41,6 @@
 | 🔗 **BLOCKCHAIN**|<img src="https://img.shields.io/badge/Solidity-%23363636.svg?logo=solidity&logoColor=white" style="margin-bottom: 4px;" height="30px">|
 | 🌐 **Operating System**|<img src="https://img.shields.io/badge/Google%20Chrome-317cee?style=for-the-badge&logo=GoogleChrome&logoColor=white"  style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"  style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="margin-bottom: 4px;" height="30px"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="margin-bottom: 4px;" height="30px"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px"/> <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" style="margin-bottom: 4px;" height="30px"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="margin-bottom: 4px;" height="30px"/>|
 
-
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <br>
 
@@ -56,27 +49,18 @@
 <a href = "mailto:aditikute24@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/aditi-kute-104219193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditikute24&show_icons=true&locale=en&layout=compact" alt="aditikute24" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditikute24&show_icons=true&locale=en&layout=compact" alt="aditikute24" /></p>
 <img align="center" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### **Thanks for checking out my GitHub Profile!** 🙏
-
 <p>
 <img align="center" src="https://ForTheBadge.com/images/badges/built-with-love.svg" alt="aditikute24" /></p>
-
 <!-- ![](https://img.shields.io/github/followers/hicodersofficial?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917) -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hicodersofficial&theme=onedark) -->
-
 </p>
-
-<img align= center src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-                                                                                                                                
+<img align= center src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />                                                                                                                            
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!😂
-
 </div>
