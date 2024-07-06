@@ -2,8 +2,6 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Aditi Kute</h1>
-         <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 <h3 align="center">A Girl trying to Figure-Out Errors!!⚠️</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditikute24&label=Profile%20views&color=129e00&style=plastic" alt="aditikute24" /> </p>
 
@@ -47,7 +45,7 @@
 ## <h2 align="center"> 🤝🏻 **Connect with me** </h2>
 <p align="left">
 <a href = "mailto:aditikute24@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/aditi-kute-104219193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/aditi-kute-104219193/" target="_blank">   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditikute24&show_icons=true&locale=en&layout=compact" alt="aditikute24" /></p>
 <img align="center" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
