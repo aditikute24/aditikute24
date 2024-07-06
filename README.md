@@ -9,7 +9,7 @@
 <picture> <img align="right" src = "https://github.com/aditikute24/aditikute24/assets/108111520/5495dde4-1510-463d-bbcd-8db499fa93b4" width = 390px height="410"></picture>
  <p align="left">
           
-**Hello! I'm Aditi Radhakisan Kute, a passionate web developer with a Master's degree in Information Technology. I specialize in creating responsive, user-friendly websites and web applications. With a solid foundation in both front-end and back-end technologies, I'm excited to share my projects and collaborate with the developer community**
+**Hello! I'm Aditi Kute, a passionate web developer with a Master's degree in Information Technology. I specialize in creating responsive, user-friendly websites and web applications. With a solid foundation in both front-end and back-end technologies, I'm excited to share my projects and collaborate with the developer community**
           
 - 🤩 **I always try to explore and learn something new.**
           
