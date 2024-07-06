@@ -14,7 +14,8 @@
 
 
  <p align="left">
- 
+
+**Hello! I'm Aditi Radhakisan Kute, a passionate web developer with a Master's degree in Information Technology. I specialize in creating responsive, user-friendly websites and web applications. With a solid foundation in both front-end and back-end technologies, I'm excited to share my projects and collaborate with the developer community**
           
 - 🤩 **I always try to explore and learn something new.**
           
