@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditikute24&label=Profile%20views&color=129e00&style=plastic" alt="aditikute24" /> </p>
 
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
-<picture> <img align="right" src = "https://github.com/aditikute24/aditikute24/assets/108111520/ee977772-c1b1-4c8a-b6f4-36293bb6f2ae" width = 370px height="390"></picture>
+<picture> <img align="right" src = "https://github.com/aditikute24/aditikute24/assets/108111520/5dc3506f-571d-40d1-8806-b36a69aa3585" width = 370px height="390"></picture>
  <p align="left">  
           
 **Hello! I'm Aditi Kute, a passionate web developer with a Master's degree in Information Technology. I specialize in creating responsive, user-friendly websites and web applications. With a solid foundation in both front-end and back-end technologies, I'm excited to share my projects and collaborate with the developer community**
