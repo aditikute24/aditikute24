@@ -17,7 +17,7 @@
   
 - 👯 I’m looking to collaborate on **OpenSource Projects**
   
-- 🎉 Let's connect [here]**(https://www.linkedin.com/in/aditi-kute-104219193/)**
+- 🎉 Let's connect **[here](https://www.linkedin.com/in/aditi-kute-104219193/)**
 
 - 📫 How to reach me **aditikute24@gmail.com**
 </p>
