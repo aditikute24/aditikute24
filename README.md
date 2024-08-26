@@ -2,7 +2,6 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Aditi Kute</h1>
-<h3 align="center">A Girl trying to Figure-Out Errors!!⚠️</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditikute24&label=Profile%20views&color=129e00&style=plastic" alt="aditikute24" /> </p>
 
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
