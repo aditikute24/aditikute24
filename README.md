@@ -8,13 +8,17 @@
 <picture> <img align="right" src ="https://github.com/user-attachments/assets/08e814ff-09a9-4082-a99a-45bb39811f6e" width="300" height="300" ></picture>
  <p align="left">  
           
-**Hello! I'm Aditi Kute, a passionate web developer with a 
-Master's degree in Information Technology.
-I specialize in creating responsive, user-friendly websites
-and web applications ,With a solid foundation
-in both front-end and back-end technologies, I'm excited to 
-share my projects and collaborate with the 
-developer community**
+### 👋 Hi there, I'm Aditi Kute
+
+I'm a web developer with a Master's in Information Technology,  
+passionate about building responsive, user-centric websites  
+and web applications.  
+
+🚀 I thrive on turning ideas into reality with clean code,  
+blending creativity with technical expertise.  
+
+Whether it's front-end finesse or back-end logic,  
+I'm all about crafting seamless digital experiences.  
           
 - 🤩 **I always try to explore and learn something new.**
           
