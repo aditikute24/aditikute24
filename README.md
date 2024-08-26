@@ -4,7 +4,7 @@
          width="45" /> I'm Aditi Kute</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditikute24&label=Profile%20views&color=129e00&style=plastic" alt="aditikute24" /> </p>
 
-## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =30px></picture> **About me**
+## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =50px></picture> **About me**
 <picture> <img align="right" src ="https://github.com/user-attachments/assets/08e814ff-09a9-4082-a99a-45bb39811f6e" width="400" height="400" ></picture>
  <p align="left">  
           
