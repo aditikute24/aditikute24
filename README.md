@@ -1,18 +1,7 @@
-# Hi, I'm Aditi Kute 👋🏼👩‍💻<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"  alt="Waving hand animated gif" height="40" width="40" /> 
-<h1 align="left"> **Hie there**, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="40"
-         width="40" /> 
-         **I'm Aditi Kute** </h1>  
+# Hi, I'm Aditi Kute👋👩‍💻<p align="right"> <img src="https://komarev.com/ghpvc/?username=aditikute24&label=Profile%20views&color=129e00&style=plastic" alt="aditikute24"  /> </p>
 
-         
-
- <img src="https://github.com/user-attachments/assets/779b567b-665e-49a4-9179-9f16791ed353" width="1920"/>
+<img src="https://github.com/user-attachments/assets/779b567b-665e-49a4-9179-9f16791ed353" width="1920"/>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditikute24&label=Profile%20views&color=129e00&style=plastic" alt="aditikute24"  /> </p>
-
-
-
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =50px></picture> **About me**
 <picture> <img align="right" src ="https://github.com/user-attachments/assets/08e814ff-09a9-4082-a99a-45bb39811f6e" width="390" height="350" ></picture>
           
