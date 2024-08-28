@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Aditi Kute</h1>
-![Screenshot 2024-08-28 114058](https://github.com/user-attachments/assets/8ccbdb0b-c278-478c-85a9-def331c9749c)
+<img src ="https://github.com/user-attachments/assets/8ccbdb0b-c278-478c-85a9-def331c9749c"/>
 
          
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditikute24&label=Profile%20views&color=129e00&style=plastic" alt="aditikute24" /> </p>
