@@ -1,8 +1,9 @@
 # Hi, I'm Aditi Kute👋👩‍💻   <img src="https://komarev.com/ghpvc/?username=aditikute24&label=Profile%20views&color=129e00&style=plastic" alt="aditikute24"  /> 
 
 <img src="https://github.com/user-attachments/assets/779b567b-665e-49a4-9179-9f16791ed353" width="1920"/>
+
           
-**Hello!! I'm a web developer with a Master's in Information Technology,  passionate about building responsive, user-centric websites  and web applications.**  
+**I'm a web developer with a Master's in Information Technology,skilled in Java, Python, and web technologies such as HTML, CSS, JavaScript, Node.js, and Express.js. I also have experience with databases like MySQL and MongoDB, and a solid background in cloud technologies and DevOps** 
           
 - 🤩 **I always try to explore and learn something new.**
           
