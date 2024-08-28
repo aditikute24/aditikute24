@@ -1,9 +1,7 @@
 <h1 align="center"> Hie there, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Aditi Kute</h1>
-<img src="https://github.com/user-attachments/assets/46961c18-2069-4128-8041-043264f92036" alt="aditikute24" width="1920" />
-         
+         width="45" /> I'm Aditi Kute</h1>         
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditikute24&label=Profile%20views&color=129e00&style=plastic" alt="aditikute24"  /> </p>
 
 
