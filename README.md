@@ -1,4 +1,7 @@
-## <h1> Hie there, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif"height="45" width="45" /> I'm Aditi Kute</h1>    
+## <h1 align="right"> Hie there, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="40"
+         width="40" /> I'm Aditi Kute</h1>  
 
  <img src="https://github.com/user-attachments/assets/779b567b-665e-49a4-9179-9f16791ed353" width="1920"/>
  
