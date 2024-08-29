@@ -31,10 +31,7 @@
 | 📄 **CODE EDITOR & IDES**|<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"  style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"  style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"  style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"  style="margin-bottom: 4px;" height="30px"> <img src=" https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"  style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the badge&logo=RStudio&logoColor=white"  style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" style="margin-bottom: 4px;" height="30px"/>|
 | 🔗 **BLOCKCHAIN**|<img src="https://img.shields.io/badge/Solidity-%23363636.svg?logo=solidity&logoColor=white" style="margin-bottom: 4px;" height="30px">|
 | 🌐 **Operating System**|<img src="https://img.shields.io/badge/Google%20Chrome-317cee?style=for-the-badge&logo=GoogleChrome&logoColor=white"  style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"  style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="margin-bottom: 4px;" height="30px"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="margin-bottom: 4px;" height="30px"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px"/> <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" style="margin-bottom: 4px;" height="30px"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="margin-bottom: 4px;" height="30px"/>|
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<br>
-
 ## <h2 align="center"> 🤝🏻 **Connect with me** </h2>
 <p align="left">
 <a href = "mailto:aditikute24@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -44,14 +41,13 @@
 <img align="center" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### **Thanks for checking out my GitHub Profile!** 🙏
-<p>
-<img align="center" src="https://ForTheBadge.com/images/badges/built-with-love.svg" alt="aditikute24" /></p>
+<p><img align="center" src="https://ForTheBadge.com/images/badges/built-with-love.svg" alt="aditikute24" /></p>
 <!-- ![](https://img.shields.io/github/followers/hicodersofficial?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917) -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hicodersofficial&theme=onedark) -->
-</p>
+
 <img align= center src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />                                                                                                                            
 <div align="center">
-
+          
 ### Show some ❤️ by starring some of the repositories!😂
 </div>
