@@ -1,6 +1,4 @@
-<img align="right" src="https://giphy.com/embed/L1R1tvI9svkIWwpVYrf" alt="Coder GIF" width="420" height="330">
-
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
+<img align="right" src="https://github.com/user-attachments/assets/f59d5a10-faac-4d7d-b73d-050ed02432e9" alt="Coder GIF" width="420" height="310">
 
 # Hi, I'm Aditi Kute👋👩‍💻 
 
