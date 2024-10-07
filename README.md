@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/user-attachments/assets/f9e0a74a-9b6f-44be-b759-2869578aee7cf" width="420" height="310">
 
-# Hi, I'm Aditi Kute👋👩‍💻 
+ **Hi, I'm Aditi Kute**👋👩‍💻 
 
 [![Linkedin Badge](https://img.shields.io/badge/-AditiKute-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditi-kute/)](https://www.linkedin.com/in/aditi-kute/)
 [![Gmail Badge](https://img.shields.io/badge/-aditikute24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aditikute24@gmail.com)](mailto:aditikute24@gmail.com)
