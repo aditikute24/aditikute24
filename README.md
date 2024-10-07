@@ -3,8 +3,8 @@
 
 # Hi, I'm Aditi Kute👋👩‍💻   <img src="https://komarev.com/ghpvc/?username=aditikute24&label=Profile%20views&color=129e00&style=plastic" alt="aditikute24"  /> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-chetanraut-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetanraut/)](https://www.linkedin.com/in/aditi-kute/)
-[![Gmail Badge](https://img.shields.io/badge/-rautc157@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rautc157@gmail.com)](mailto:aditikute24@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-chetanraut-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditi-kute/)](https://www.linkedin.com/in/aditi-kute/)
+[![Gmail Badge](https://img.shields.io/badge/-rautc157@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aditikute24@gmail.com)](mailto:aditikute24@gmail.com)
 
 - 🎯 Portfolio website: [Portfolio](https://aditikute24.github.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
