@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/user-attachments/assets/67181cd0-298a-4cbf-889e-648e911ec0bd" width="420" height="340">
+<img align="right" src="https://github.com/user-attachments/assets/67181cd0-298a-4cbf-889e-648e911ec0bd" width="400" height="340">
 
  ### Hi there,I'm Aditi Kute👋👩‍💻 
 
@@ -9,7 +9,6 @@
 - 👩🏻‍💻 Web developer | Java developer <br/>
 - 👩🏻‍🎓 Studied [Information Technology] at the Patkar-Varde College<br/>
 - ⚡ Fun fact: The first rule of programming — if it works, don’t touch it. 🤓 
-
 
 💻 **Things I love**
 
