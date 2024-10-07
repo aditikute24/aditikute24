@@ -3,7 +3,7 @@
 
 # Hi, I'm Aditi Kute👋👩‍💻 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aditi-Kute-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditi-kute/)](https://www.linkedin.com/in/aditi-kute/)
+[![Linkedin Badge](https://img.shields.io/badge/-AditiKute-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditi-kute/)](https://www.linkedin.com/in/aditi-kute/)
 [![Gmail Badge](https://img.shields.io/badge/-aditikute24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aditikute24@gmail.com)](mailto:aditikute24@gmail.com)
 
 - 🎯 Portfolio website: [Portfolio](https://aditikute24.github.io/)
