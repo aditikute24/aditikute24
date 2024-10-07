@@ -1,20 +1,21 @@
+
+<img align="right" src="https://github.com/SnakeCodinx/SnakeCodinx/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
+
 # Hi, I'm Aditi Kute👋👩‍💻   <img src="https://komarev.com/ghpvc/?username=aditikute24&label=Profile%20views&color=129e00&style=plastic" alt="aditikute24"  /> 
 
+[![Linkedin Badge](https://img.shields.io/badge/-chetanraut-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetanraut/)](https://www.linkedin.com/in/aditi-kute/)
+[![Gmail Badge](https://img.shields.io/badge/-rautc157@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rautc157@gmail.com)](mailto:aditikute24@gmail.com)
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-          
-**I'm a web developer with a Master's in Information Technology,skilled in Java, Python, and web technologies such as HTML, CSS, JavaScript, Node.js, and Express.js. I also have experience with databases like MySQL and MongoDB, and a solid background in cloud technologies and DevOps** 
-          
-- 🤩 **I always try to explore and learn something new.**
-          
-- 🌱 I’m currently learning **Advance java and Full Stack Web development.**
-  
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-  
-- 🎉 Let's connect **[here](https://www.linkedin.com/in/aditi-kute-104219193/)**
+- 🎯 Portfolio website: [Portfolio](https://aditikute24.github.io/)
+- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
-- 📫 How to reach me **aditikute24@gmail.com**
-</p>
+💻 **Things I love**
+
+- Java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- web Development ✍️
+- Machine Learning 🧐
+- Data Science 😬          
+  
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # Skills <img src='https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif' width="40"> 
