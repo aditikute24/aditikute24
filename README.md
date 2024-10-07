@@ -1,4 +1,9 @@
-<img align="right" src="https://github.com/user-attachments/assets/f59d5a10-faac-4d7d-b73d-050ed02432e9" alt="Coder GIF" width="420" height="310">
+<img align="right" src="https://github.com/user-attachments/assets/e12e7186-6e07-487f-a989-ed28b28dc2d7" alt="Coder GIF" width="420" height="310">
+
+
+
+
+
 
 # Hi, I'm Aditi Kute👋👩‍💻 
 
