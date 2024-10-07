@@ -1,12 +1,14 @@
 
 <img align="right" src="https://github.com/SnakeCodinx/SnakeCodinx/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
 
-# Hi, I'm Aditi Kute👋👩‍💻  <img src="https://komarev.com/ghpvc/?username=aditikute24&label=Profile%20views&color=129e00&style=plastic" alt="aditikute24"  /> 
+# Hi, I'm Aditi Kute👋👩‍💻 
 
-[![Linkedin Badge](https://img.shields.io/badge/-ADITIKUTE-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditi-kute/)](https://www.linkedin.com/in/aditi-kute/)
+[![Linkedin Badge](https://img.shields.io/badge/-ADITI KUTE-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditi-kute/)](https://www.linkedin.com/in/aditi-kute/)
 [![Gmail Badge](https://img.shields.io/badge/-aditikute24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aditikute24@gmail.com)](mailto:aditikute24@gmail.com)
 
 - 🎯 Portfolio website: [Portfolio](https://aditikute24.github.io/)
+- 👩🏻‍💻 Web developer|Java devloper <br/>
+- 👩🏻‍🎓 Studied [Information Technology] at the Patkar-Varde College<br/>
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
