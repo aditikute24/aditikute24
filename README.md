@@ -7,9 +7,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-aditikute24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aditikute24@gmail.com)](mailto:aditikute24@gmail.com)
 
 - 🎯 Portfolio website: [Portfolio](https://aditikute24.github.io/)
-- 👩🏻‍💻 Web developer|Java devloper <br/>
+- 👩🏻‍💻 Web developer | Java developer <br/>
 - 👩🏻‍🎓 Studied [Information Technology] at the Patkar-Varde College<br/>
-- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
+- ⚡ Fun fact: The first rule of programming — if it works, don’t touch it. 🤓 
+
 
 💻 **Things I love**
 
