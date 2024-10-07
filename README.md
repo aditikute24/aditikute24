@@ -1,4 +1,4 @@
-<img align="right" src="https://gifdb.com/gif/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde" width="420" height="310">
+<img align="right" src="https://github.com/user-attachments/assets/67181cd0-298a-4cbf-889e-648e911ec0bd" width="420" height="310">
 
  ### Hi there,I'm Aditi Kute👋👩‍💻 
 
