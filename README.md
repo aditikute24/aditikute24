@@ -1,21 +1,24 @@
 <img align="right" src="https://github.com/user-attachments/assets/8c48d295-c677-4479-94d4-fb33e557cbef" width="420" height="330">
 
- ### Hi there,I'm Aditi Kute👋👩‍💻 
+ ## Hi there,I'm Aditi Kute👋👩‍💻 
 
 [![Linkedin Badge](https://img.shields.io/badge/-AditiKute-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditi-kute/)](https://www.linkedin.com/in/aditi-kute/)
 [![Gmail Badge](https://img.shields.io/badge/-aditikute24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aditikute24@gmail.com)](mailto:aditikute24@gmail.com)
 
-- 🎯 Portfolio website: [Portfolio](https://aditikute24.github.io/)
-- 👩🏻‍💻 Web developer | Java developer <br/>
-- 👩🏻‍🎓 Studied [Information Technology] at the Patkar-Varde College<br/>
-- ⚡ Fun fact: The first rule of programming — if it works, don’t touch it. 🤓 
+- 🎯 **Portfolio website**: [Portfolio](https://aditikute24.github.io/)
+- 👩🏻‍💻 **Web developer | Java developer** <br/>
+- 👩🏻‍🎓 Studied **Information Technology** at the Patkar-Varde College<br/>
+- ⚡ **Fun fact**: The first rule of programming — if it works, don’t touch it. 🤓 
 
 💻 **Things I love**
-
-- Java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- Java<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - web Development ✍️
 - Machine Learning 🧐
-- Data Science 😬          
+- Data Science 😬
+
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=aditikute24g&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+    </a>      
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
