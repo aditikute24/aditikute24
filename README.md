@@ -1,5 +1,4 @@
 <img align="right" src="https://github.com/user-attachments/assets/11beeff5-a678-4c3c-9cb2-5124750c51c7" width="400" height="340">
-![WhatsApp Video 2024-10-07 at 11 11 37 PM (1)](https://github.com/user-attachments/assets/11beeff5-a678-4c3c-9cb2-5124750c51c7)
 
 
  ### Hi there,I'm Aditi Kute👋👩‍💻 
