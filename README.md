@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/user-attachments/assets/d788fb76-09df-446c-9427-bd18d0509223" width="400" height="340">
+<img align="right" src="https://github.com/user-attachments/assets/8c48d295-c677-4479-94d4-fb33e557cbef" width="420" height="330">
 
  ### Hi there,I'm Aditi Kute👋👩‍💻 
 
